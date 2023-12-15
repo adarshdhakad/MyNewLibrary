@@ -34,6 +34,16 @@ android {
     }
 }
 
+//publishing {
+//    publications {
+//        create<MavenPublication>("maven") {
+//            groupId = "com.github.lavi-img"
+//            artifactId = "vitalslib"
+//            version = "1.20"
+//        }
+//    }
+//}
+
 dependencies {
 
     implementation("androidx.core:core-ktx:1.12.0")
