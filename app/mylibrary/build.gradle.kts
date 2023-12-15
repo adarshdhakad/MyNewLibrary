@@ -7,7 +7,7 @@ plugins {
     `maven-publish`
     id("maven-publish")
 }
-
+//my
 android {
     namespace = "com.example.mylibrary"
     compileSdk = 34
